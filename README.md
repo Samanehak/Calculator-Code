@@ -1,1 +1,1 @@
-# Calculator-Code
+A calculator project in Python is a simple yet effective way to practice basic programming concepts. It performs arithmetic operations like addition, subtraction, multiplication, and division. Using functions, conditional statements, and loops, it helps build a strong foundation in Python programming. GUI can be added using Tkinter for enhancement.
